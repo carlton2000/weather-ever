@@ -1,0 +1,27 @@
+*{
+  background-color:#808080; 
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  background-color: grey;
+}
+
+button {
+  border: 0;
+  padding: 8px 20px;
+  margin: 0 2px;
+  border-radius: 2px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #ff0000;
+  color: #000;
+  font-weight: 100;
+}
+
+button:active {
+  outline: none;
+}

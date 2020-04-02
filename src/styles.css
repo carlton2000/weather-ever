@@ -1,0 +1,21 @@
+.weatherHeading{
+    text-align: center;
+    padding: 5px;
+}
+.weatherslogon{
+	text-align: center;
+	text-decoration: overline;
+}
+input[type=text] {
+	border: none;
+	border-bottom: 2px solid red;
+}
+button{
+	background-color: red;
+}
+
+.img{
+	text-align: center;
+	width: 250px;
+	height: 150px;
+}
